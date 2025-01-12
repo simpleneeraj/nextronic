@@ -1,0 +1,12 @@
+{
+  "name": "Nextronic App",
+  "short_name": "Nextronic",
+  "version": "v1.0.0",
+  "environment": "Beta",
+  "contact": {
+    "phone": "+91-9876543210",
+    "email": "support@example.com",
+    "map": "https://goo.gl/maps/example",
+    "chat": "https://chat.example.com"
+  }
+}
